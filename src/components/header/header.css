@@ -1,0 +1,16 @@
+.nav {
+    margin-top: .5rem;
+    padding-left: 10px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.navbar {
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-brand {
+    font-size: 30px !important
+}

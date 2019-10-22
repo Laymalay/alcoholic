@@ -1,0 +1,8 @@
+#root {
+    margin: 0;
+    max-width: 100%;
+}
+#root.container {
+    padding-left: 0; 
+    padding-right: 0;
+}
